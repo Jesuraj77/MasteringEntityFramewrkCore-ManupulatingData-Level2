@@ -1,0 +1,8 @@
+H:\bhuvana\Level2\Level2.Entities\bin\Debug\netcoreapp2.0\Level2.Entities.deps.json
+H:\bhuvana\Level2\Level2.Entities\bin\Debug\netcoreapp2.0\Level2.Entities.dll
+H:\bhuvana\Level2\Level2.Entities\bin\Debug\netcoreapp2.0\Level2.Entities.pdb
+H:\bhuvana\Level2\Level2.Entities\obj\Debug\netcoreapp2.0\Level2.Entities.csprojAssemblyReference.cache
+H:\bhuvana\Level2\Level2.Entities\obj\Debug\netcoreapp2.0\Level2.Entities.AssemblyInfoInputs.cache
+H:\bhuvana\Level2\Level2.Entities\obj\Debug\netcoreapp2.0\Level2.Entities.AssemblyInfo.cs
+H:\bhuvana\Level2\Level2.Entities\obj\Debug\netcoreapp2.0\Level2.Entities.dll
+H:\bhuvana\Level2\Level2.Entities\obj\Debug\netcoreapp2.0\Level2.Entities.pdb

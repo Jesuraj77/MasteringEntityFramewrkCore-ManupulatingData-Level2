@@ -1,0 +1,8 @@
+H:\bhuvana\Level2\Level2.BusinessLayer\bin\Debug\netcoreapp2.0\Level2.BusinessLayer.deps.json
+H:\bhuvana\Level2\Level2.BusinessLayer\bin\Debug\netcoreapp2.0\Level2.BusinessLayer.dll
+H:\bhuvana\Level2\Level2.BusinessLayer\bin\Debug\netcoreapp2.0\Level2.BusinessLayer.pdb
+H:\bhuvana\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.0\Level2.BusinessLayer.csprojAssemblyReference.cache
+H:\bhuvana\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.0\Level2.BusinessLayer.AssemblyInfoInputs.cache
+H:\bhuvana\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.0\Level2.BusinessLayer.AssemblyInfo.cs
+H:\bhuvana\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.0\Level2.BusinessLayer.dll
+H:\bhuvana\Level2\Level2.BusinessLayer\obj\Debug\netcoreapp2.0\Level2.BusinessLayer.pdb

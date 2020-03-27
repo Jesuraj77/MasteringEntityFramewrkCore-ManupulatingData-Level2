@@ -1,0 +1,5 @@
+H:\bhuvana\Level2\Level2.DataLayer\obj\Debug\netcoreapp2.0\Level2.DataLayer.csprojAssemblyReference.cache
+H:\bhuvana\Level2\Level2.DataLayer\obj\Debug\netcoreapp2.0\Level2.DataLayer.AssemblyInfoInputs.cache
+H:\bhuvana\Level2\Level2.DataLayer\obj\Debug\netcoreapp2.0\Level2.DataLayer.AssemblyInfo.cs
+H:\bhuvana\Level2\Level2.DataLayer\bin\Debug\netcoreapp2.0\Level2.DataLayer.deps.json
+H:\bhuvana\Level2\Level2.DataLayer\bin\Debug\netcoreapp2.0\Level2.DataLayer.dll
